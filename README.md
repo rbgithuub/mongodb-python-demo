@@ -1,2 +1,2 @@
 # mongodb-python-demo
-Web app  buit using mongodb and python
+Web app  built using mongodb and python
